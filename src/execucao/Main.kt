@@ -5,14 +5,6 @@ import java.util.*
 
 fun main() {
 
-//    //Teste de geração de cartas
-//    var i = 0
-//    while (i < 20) {
-//        var carta = Carta.gerarCarta()
-//        println(carta.toString())
-//        i++
-//    }
-
     val leitura = Scanner(System.`in`)
     var jogar = "s"
 
