@@ -72,3 +72,5 @@ G.idea/sonarlint/issuestore/6/1/6136dc1def358349f780e897f37568af6e134cbf,8\f\8f
 Q.idea/sonarlint/securityhotspotstore/1/f/1fd92b2abadbcd589db5b8c931e8e52fa152d18b,f\3\f3541f0e5eaf977f125431b8713c218b078903d8
 Å
 Q.idea/sonarlint/securityhotspotstore/6/1/6136dc1def358349f780e897f37568af6e134cbf,1\3\139d354a17b0319025ce78e48b61b09dc02d9ac9
+N
+src/tratramentos/validacoes.kt,0\2\02bcf0f99ef988b97aefcb146da08aa8d5d609e4
