@@ -1,6 +1,6 @@
 
-zkotlin:S1172("0Remove this unused function parameter "baralho".(ğÇşôúÿÿÿÿ8¤å€âç1J$c96d143e-011c-48fd-8380-95659db210a9
-ykotlin:S1481
-"/Remove this unused "tentativas" local variable.(¢Öôÿÿÿÿÿ8Ÿÿáç1J$6edd2e87-8905-4be4-9b96-ad35a15e7e79
-xkotlin:S1481	".Remove this unused "pontuacao" local variable.(ºú£øÿÿÿÿ8‚Ÿÿáç1J$8e723c8f-567c-4b0a-bb86-442ccbab17d0
-¤kotlin:S1186("ZAdd a nested comment explaining why this function is empty or complete the implementation.(ğÇşôúÿÿÿÿ8ƒŸÿáç1J$c4bd8a41-d16f-4ae7-b782-383ba4a162dc
+zkotlin:S11723"0Remove this unused function parameter "baralho".(ğÇşôúÿÿÿÿ8ù¿‚ãç1J$ae0882da-943a-4315-bf17-e6fbf671a20b
+qkotlin:S1481*",Remove this unused "palpite" local variable.(Ì¨àÆ8­´—ãç1J$69a4961d-6148-4077-85b6-3c4a5c5e0975
+ykotlin:S1481"/Remove this unused "tentativas" local variable.(¢Öôÿÿÿÿÿ8ÿ¿‚ãç1J$e4cfb46d-9440-4e85-a02e-8a926da901c1
+xkotlin:S1481
+".Remove this unused "pontuacao" local variable.(ºú£øÿÿÿÿ8ÿ¿‚ãç1J$229918d9-f536-472b-8f33-cf33aa6ea470
