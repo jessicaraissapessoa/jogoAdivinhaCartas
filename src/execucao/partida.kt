@@ -20,7 +20,7 @@ fun iniciarPartida(leitura : Scanner) {
 
     val baralho = Baralho.gerarBaralho(quantidadeCartas)
 
-    println(baralho) //Visualização das cartas para testes
+    //println(baralho) //Visualização das cartas para testes
 
     println("\n$separador\nREGRAS:" +
             "\n- Você deve adivinhar $quantidadeCartas cartas" +
@@ -106,4 +106,3 @@ fun alterarPontuacao(acerto : Boolean, pontuacao : Int) : Int {
 }
 
 const val separador = "**********************************************************************"
-

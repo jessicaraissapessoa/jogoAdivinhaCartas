@@ -36,4 +36,3 @@ fun validarPalpite(palpite: String): String {
         validarPalpite(leitura.nextLine())
     }
 }
-

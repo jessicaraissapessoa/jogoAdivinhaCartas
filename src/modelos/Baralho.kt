@@ -4,7 +4,7 @@ data class Baralho(var quantidadeCartas : Int, var cartas : MutableList<Carta>) 
 
     companion object {
 
-        val cartasPartida = mutableListOf<Carta>()
+        private val cartasPartida = mutableListOf<Carta>()
 
         fun gerarBaralho(quantidadeCartas: Int): Baralho {
 
