@@ -1,6 +1,5 @@
 package execucao
 
-import modelos.Carta
 import java.util.*
 
 fun main() {
@@ -8,10 +7,10 @@ fun main() {
     val leitura = Scanner(System.`in`)
     var jogar = "s"
 
-    while (jogar == "s") {
+    while (jogar.contains("s", ignoreCase = true)) {
         iniciarPartida(leitura)
 
-        println("Deseja jogar outra partida?")
+        println("Deseja jogar outra partida? Digite 's' para jogar novamente")
         jogar = leitura.nextLine()
     }
 
