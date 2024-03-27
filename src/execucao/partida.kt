@@ -99,7 +99,7 @@ fun efetuarPalpite(baralho: Baralho, palpite : String) : Boolean {
 fun alterarPontuacao(acerto : Boolean, pontuacao : Int) : Int {
 
     return if (acerto) {
-         pontuacao + 5
+        pontuacao + 5
     } else {
         pontuacao - 1
     }
